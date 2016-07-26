@@ -1,0 +1,28 @@
+name: Sindre
+favicon: null
+layout_spectrum: 0.949143301229924
+typography_spectrum: 0.24656607024371624
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5849258282687515
+  lightness: 0.08819395722821355
+  saturation: 0.05610402440652251
+  rhythmicContrast: 0.3505610963329673
+purpose: []
